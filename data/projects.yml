@@ -48,7 +48,7 @@
   language: Python
   license: Other
   name: frappe-attachments-s3
-  stars: 160
+  stars: 161
   topics: []
   updated_at: '2026-03-11T10:44:29Z'
   url: https://github.com/zerodhatech/Frappe-attachments-s3
@@ -144,7 +144,7 @@
   license: GNU Affero General Public License v3.0
   logo: listmonk.svg
   name: listmonk
-  stars: 19985
+  stars: 20280
   topics:
   - campaign
   - campaign-management
@@ -159,7 +159,7 @@
   - sms-gateway
   - smtp
   - transactional-emails
-  updated_at: '2026-05-09T07:57:05Z'
+  updated_at: '2026-05-15T03:16:22Z'
   url: https://github.com/knadh/listmonk
 - category: utils
   description: A CLI utility and web server for digitally signing PDFs with docsign
@@ -184,7 +184,7 @@
   language: Go
   license: MIT License
   name: koanf
-  stars: 4006
+  stars: 4019
   topics:
   - config
   - config-loader
@@ -351,7 +351,7 @@
   license: MIT License
   logo: dungbeetle.svg
   name: dungbeetle
-  stars: 1229
+  stars: 1232
   topics:
   - broker-backend
   - database
@@ -364,7 +364,7 @@
   - sql
   - sql-query
   - workers
-  updated_at: '2026-04-24T20:15:49Z'
+  updated_at: '2026-05-14T08:58:31Z'
   url: https://github.com/knadh/sql-jobber
 - category: libs
   description: Simple no frills AWS S3 Golang Library using REST with V4 Signing (without
@@ -373,7 +373,7 @@
   language: Go
   license: Other
   name: simples3
-  stars: 198
+  stars: 199
   topics:
   - aws
   - aws-s3
@@ -533,7 +533,7 @@
   license: BSD 2-Clause "Simplified" License
   logo: linkpage.svg
   name: linkpage
-  stars: 133
+  stars: 134
   topics: []
   updated_at: '2026-04-14T14:45:22Z'
   url: https://github.com/rhnvrm/linkpage
@@ -580,7 +580,7 @@
   language: JavaScript
   license: MIT License
   name: indexed-cache
-  stars: 128
+  stars: 130
   topics:
   - bandwidth-saver
   - browser-cache
@@ -701,7 +701,7 @@
   - kafka-consumer
   - kafka-producer
   - kafka-replicator
-  updated_at: '2026-04-08T06:40:51Z'
+  updated_at: '2026-05-13T08:50:11Z'
   url: https://github.com/zerodha/kaf-relay
 - category: utils
   description: A frappe app that has workflows and reports to make payments to vendors
@@ -784,7 +784,7 @@
   license: GNU Affero General Public License v3.0
   logo: libredesk.svg
   name: libredesk
-  stars: 2490
+  stars: 2506
   topics:
   - chat-widget
   - conversation
@@ -803,22 +803,22 @@
   - support
   - ticketing-system
   - vue
-  updated_at: '2026-05-08T07:14:41Z'
+  updated_at: '2026-05-16T18:30:08Z'
   url: https://github.com/abhinavxd/libredesk
 - category: apps
   description: Lightweight, single-binary log analytics interface for ClickHouse,
     focused on high-performance querying and visualization
   github_uri: mr-karan/logchef
-  language: Vue
+  language: Go
   license: GNU Affero General Public License v3.0
   logo: logchef.svg
   name: logchef
-  stars: 751
+  stars: 753
   topics:
   - clickhouse
   - log-analytics
   - logging
-  updated_at: '2026-05-07T09:49:05Z'
+  updated_at: '2026-05-13T06:39:57Z'
   url: https://github.com/mr-karan/logchef
 - category: apps
   description: An open source self-service workflow execution platform
@@ -827,7 +827,7 @@
   license: Apache License 2.0
   logo: flowctl.svg
   name: flowctl
-  stars: 307
+  stars: 306
   topics:
   - automation
   - devops
@@ -837,7 +837,7 @@
   - self-service
   - workflow
   - workflow-automation
-  updated_at: '2026-05-07T17:29:09Z'
+  updated_at: '2026-05-14T21:38:34Z'
   url: https://github.com/cvhariharan/flowctl
 - category: services
   description: Terraform Provider for Warpgate
@@ -868,7 +868,7 @@
   license: GNU Affero General Public License v3.0
   logo: hedwig.svg
   name: hedwig
-  stars: 52
+  stars: 53
   topics:
   - mail-server
   - rust
@@ -909,7 +909,7 @@
   license: GNU Affero General Public License v3.0
   logo: whatomate.svg
   name: whatomate
-  stars: 1147
+  stars: 1161
   topics:
   - whatsapp
   - whatsapp-api
@@ -919,5 +919,5 @@
   - whatsapp-chat
   - whatsapp-voice-call
   - whatsapp-voip
-  updated_at: '2026-05-08T07:10:30Z'
+  updated_at: '2026-05-16T10:07:07Z'
   url: https://github.com/shridarpatil/whatomate
