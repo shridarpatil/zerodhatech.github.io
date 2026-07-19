@@ -144,7 +144,7 @@
   license: GNU Affero General Public License v3.0
   logo: listmonk.svg
   name: listmonk
-  stars: 22051
+  stars: 22235
   topics:
   - campaign
   - campaign-management
@@ -159,7 +159,7 @@
   - sms-gateway
   - smtp
   - transactional-emails
-  updated_at: '2026-07-09T03:14:19Z'
+  updated_at: '2026-07-18T03:10:17Z'
   url: https://github.com/knadh/listmonk
 - category: utils
   description: A CLI utility and web server for digitally signing PDFs with docsign
@@ -184,7 +184,7 @@
   language: Go
   license: MIT License
   name: koanf
-  stars: 4111
+  stars: 4118
   topics:
   - config
   - config-loader
@@ -208,7 +208,7 @@
   language: Python
   license: MIT License
   name: csvtotable
-  stars: 1170
+  stars: 1171
   topics: []
   updated_at: '2021-01-05T11:46:14Z'
   url: https://github.com/vividvilla/csvtotable
@@ -351,7 +351,7 @@
   license: MIT License
   logo: dungbeetle.svg
   name: dungbeetle
-  stars: 1257
+  stars: 1258
   topics:
   - broker-backend
   - database
@@ -580,7 +580,7 @@
   language: JavaScript
   license: MIT License
   name: indexed-cache
-  stars: 129
+  stars: 130
   topics:
   - bandwidth-saver
   - browser-cache
@@ -784,7 +784,7 @@
   license: GNU Affero General Public License v3.0
   logo: libredesk.svg
   name: libredesk
-  stars: 2628
+  stars: 2643
   topics:
   - chat-widget
   - conversation
@@ -803,7 +803,7 @@
   - support
   - ticketing-system
   - vue
-  updated_at: '2026-07-11T23:40:47Z'
+  updated_at: '2026-07-18T14:26:05Z'
   url: https://github.com/abhinavxd/libredesk
 - category: apps
   description: Lightweight, single-binary log analytics interface for ClickHouse,
@@ -813,12 +813,12 @@
   license: GNU Affero General Public License v3.0
   logo: logchef.svg
   name: logchef
-  stars: 759
+  stars: 762
   topics:
   - clickhouse
   - log-analytics
   - logging
-  updated_at: '2026-07-11T08:20:03Z'
+  updated_at: '2026-07-17T08:15:49Z'
   url: https://github.com/mr-karan/logchef
 - category: apps
   description: An open source self-service workflow execution platform
@@ -827,7 +827,7 @@
   license: Apache License 2.0
   logo: flowctl.svg
   name: flowctl
-  stars: 321
+  stars: 325
   topics:
   - automation
   - devops
@@ -837,7 +837,7 @@
   - self-service
   - workflow
   - workflow-automation
-  updated_at: '2026-07-10T21:39:17Z'
+  updated_at: '2026-07-18T10:47:44Z'
   url: https://github.com/cvhariharan/flowctl
 - category: services
   description: Terraform Provider for Warpgate
@@ -875,7 +875,7 @@
   - rust-smtp
   - smtp
   - smtp-server
-  updated_at: '2026-07-02T11:34:32Z'
+  updated_at: '2026-07-17T09:19:06Z'
   url: https://github.com/iamd3vil/hedwig
 - category: libs
   description: A Flutter plugin for Android device performance classification.
@@ -909,7 +909,7 @@
   license: GNU Affero General Public License v3.0
   logo: whatomate.svg
   name: whatomate
-  stars: 1350
+  stars: 1365
   topics:
   - whatsapp
   - whatsapp-api
@@ -919,5 +919,5 @@
   - whatsapp-chat
   - whatsapp-voice-call
   - whatsapp-voip
-  updated_at: '2026-07-10T18:33:24Z'
+  updated_at: '2026-07-14T07:01:19Z'
   url: https://github.com/shridarpatil/whatomate
